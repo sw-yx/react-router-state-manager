@@ -1,6 +1,6 @@
 {
   "name": "react-router-state-manager",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "manage state in your URL bar, why not",
   "author": "sw-yx",
   "license": "MIT",
